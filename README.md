@@ -36,7 +36,7 @@ Em seguida, adicione as imagens que deseja exibir no carrossel no elemento ```<d
 
     <img class="imagem" src="./src/imagens/imagem-03-vegeta.jpg" alt="imagem-03-vegeta"/>
 
-    <img class="imagem" src="./src/imagens/imagem-04.jpg" alt="Personagens Dragon Ball"/>
+    <img class="imagem" src="./src/imagens/imagem-04-personagens.jpg" alt="Personagens Dragon Ball"/>
 
     <img class="imagem" src="./src/imagens/imagem-05-personagens.jpeg" alt="Personagens Dragon Ball"/>
 
@@ -44,7 +44,8 @@ Em seguida, adicione as imagens que deseja exibir no carrossel no elemento ```<d
   </div>
 </div>
 ```
-Logo depois, adicione os botões que irá exibir a animação de click na tela com a troca das imagens no carrossel dentro de outro elemento ```<div class="img-carousel"></div>```
+
+Logo depois, adicione os botões que irá exibir a animação de click na tela com a troca das imagens no carrossel dentro de outro elemento ```<div class="botoes-carrossel"></div>```
 
 ```
 <div class="botoes-carrossel">
