@@ -4,7 +4,7 @@
 
 ## Bem-Vindos! 👋
 
-Este é um projeto de carrossel simples em JavaScript que permite a navegação entre várias imagens de forma dinâmica e interativa.
+Este é um projeto de carrossel em JavaScript que permite uma navegação dinâmica e interativa entre várias imagens. Com esse carrossel, os usuários podem deslizar suavemente pelas imagens, explorando uma coleção de forma intuitiva. Além disso, o projeto é altamente personalizável, permitindo ajustes como velocidade de transição, exibição automática e controles de navegação. Com uma implementação limpa e de fácil compreensão, esse carrossel é uma ótima adição para sites que desejam exibir imagens de forma atrativa e envolvente.
 
 
 ## Funcionalidades
